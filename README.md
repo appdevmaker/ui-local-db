@@ -1,5 +1,5 @@
 # ui-local-db
-Simple and fast implementation of DB within user's browser environment.
+Database implementation within user's browser environment.
 
 ### What is it for
 
